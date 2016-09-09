@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://inpieces.xyz
+
+User-agent:Yeti
+Disallow: 
